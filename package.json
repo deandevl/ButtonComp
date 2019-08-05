@@ -1,0 +1,20 @@
+{
+  "name": "buttoncomp",
+  "main": "ButtonComp.vue",
+  "version": "1.0.0",
+  "description": "A web component (Vue.js >= 2.5) that provides simple button with styling.",
+  "repository": "git+https://github.com/deandevl/ButtonComp.git",
+  "keywords": [
+    "Vue.js",
+    "ButtonComp"
+  ],
+  "author": "Rick Dean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deandevl/ButtonComp/issues"
+  },
+  "homepage": "https://github.com/deandevl/ButtonComp#readme",
+  "dependencies": {
+    "vue": "^2.5.22"
+  }
+}
